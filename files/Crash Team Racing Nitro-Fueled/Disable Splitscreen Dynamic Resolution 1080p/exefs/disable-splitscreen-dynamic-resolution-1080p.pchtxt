@@ -1,0 +1,18 @@
+@nsobid-47E60871471F1CE9E212B81DEC5A6249
+
+# Crash Team Racing Nitro-Fueled [0100F9F00C696000] - Disable Splitscreen Dynamic Resolution 1080p
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 2-4 player splitscreen renders at 1920x1080 instead of 1280x720 / 1024x576
+
+@enabled
+00AC3C68 E8031F2A
+040A9B88 0000F044
+040A9CD0 00008744
+@stop
+
+@drxid
+https://github.com/drxid
+  
