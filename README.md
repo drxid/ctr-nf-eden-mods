@@ -44,3 +44,7 @@ Reverse engineering and patches by [drxid](https://github.com/drxid).
 
 Repository layout follows
 [yuzu-mod-archive](https://github.com/yuzu-mirror/yuzu-mod-archive).
+
+### License
+
+[MIT](LICENSE)
